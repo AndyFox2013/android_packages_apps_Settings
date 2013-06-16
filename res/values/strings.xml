@@ -5121,4 +5121,71 @@
     <!-- Permissions Management -->
     <string name="permissions_settings_title">Permissions Management</string>
 
+    <!-- Share ChameleonOS >
+    <string name="share_chameleonos_title">Share ChameleonOS</string>
+    <string name="share_chameleonos_summary">Let others know about ChameleonOS</string>
+    <string name="share_message">I\'m running ChameleonOS on my %s! \nhttp://www.chameleonos.org #GetChameleonOS @ChaOS_ROM</string>
+    <string name="share_chooser_title">Share the ChaOS!</string> -->
+
+    <!-- Donate to ChameleonOS >
+    <string name="donate_chameleonos_title">Support ChameleonOS</string>
+    <string name="donate_chameleonos_summary">Show your support for ChameleonOS by donating.</string>
+    <string name="donate_link" formatted="false">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=5JTBT7VHVUDE4&amp;lc=US&amp;item_name=ChameleonOS&amp;item_number=donation&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</string> -->
+
+    <!-- Navigation bar buttons and shortcuts category title -->
+    <string name="navigation_bar_category">Navigation bar</string>
+
+    <!-- Navigation ring shortcuts -->
+    <string name="navigation_ring_title">Quick launch shortcuts</string>
+    <string name="navring_target_reset_message">Delete all user created navigation bar shortcuts and restore to default?</string>
+    <string name="navring_target_reset">Navigation bar shortcuts reset to default</string>
+    <string name="navring_target_save">Navigation bar shortcuts saved</string>
+    <string name="navring_action_open_ime_switcher">Open IME Switcher</string>
+    <string name="navring_action_kill_app">Kill app</string>
+    <string name="navring_action_none">None</string>
+    <string name="navring_action_take_screenshot">Take screenshot</string>
+    <string name="navring_action_ring_vibrate">Ring/Vibration</string>
+    <string name="navring_action_ring_silent">Ring/Silent</string>
+    <string name="navring_action_ring_vibrate_silent">Ring/Vibration/Silent</string>
+    <string name="navring_action_screen_off">Screen off</string>
+    <string name="navring_action_torch">Toggle torch</string>
+    <string name="navring_action_google_now">Google Now</string>
+    <string name="navring_choose_action_title">Choose action</string>
+
+    <!-- Experimental category title -->
+    <string name="experimental_category">Experimental</string>
+    <!-- Tablet UI title -->
+    <string name="tablet_ui_title">Tablet UI</string>
+
+    <!-- Stylus Gestures >
+    <string name="gestures_settings_title">Stylus gestures</string>
+    <string name="category_spen_title">Stylus gestures</string>
+    <string name="enable_subcat_title">Stylus</string>
+    <string name="enable_spen_title_head">Enable stylus gestures</string>
+    <string name="enable_spen_summary_head">Launch custom actions with stylus button swipe gestures. Warning: apps will not be able to receive input fired by holding the stylus button</string>
+    <string name="gestures_subcat_title">Gestures</string>
+    <string name="gestures_left_spen_title_head">Left swipe</string>
+    <string name="gestures_left_spen_summary_head">Launch custom action on left swipe</string>
+    <string name="gestures_right_spen_title_head">Right swipe</string>
+    <string name="gestures_right_spen_summary_head">Launch custom action on right swipe</string>
+    <string name="gestures_up_spen_title_head">Up swipe</string>
+    <string name="gestures_up_spen_summary_head">Launch custom action on up swipe</string>
+    <string name="gestures_down_spen_title_head">Down swipe</string>
+    <string name="gestures_down_spen_summary_head">Launch custom action on down swipe</string>
+    <string name="gestures_long_spen_title_head">Long press</string>
+    <string name="gestures_long_spen_summary_head">Launch custom action on long press</string>
+    <string name="gestures_double_spen_title_head">Double tap</string>
+    <string name="gestures_double_spen_summary_head">Launch custom action on double tap</string>
+
+    <!-- Gestures Options >
+    <string name="gestures_action_empty">No action</string>
+    <string name="gestures_action_home">Emulate home key</string>
+    <string name="gestures_action_back">Emulate back key</string>
+    <string name="gestures_action_menu">Emulate menu key</string>
+    <string name="gestures_action_search">Invoke search</string>
+    <string name="gestures_action_recent">Recent apps</string> --> 
+
+    <!-- stylus gestures support -->
+    <string name="stylus_app_not_installed">%s is not installed</string>
+
 </resources>
